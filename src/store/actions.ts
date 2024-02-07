@@ -1,4 +1,4 @@
-// actions.ts
+
 export const INCREMENT = 'INCREMENT';
 
 export interface IncrementAction {
